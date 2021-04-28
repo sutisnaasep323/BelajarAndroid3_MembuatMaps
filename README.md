@@ -35,4 +35,4 @@ Kemudian yang tidak kalah pentingnya sobat ubah API KEY nya
 
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">REPLACE YOUR API KEY HERE!!</string>
     
-Disana tertulis "REPLACE YOUR API KEY HERE!!" yang harus sobat ganti. caranya mendapatakannya adalah dengan mengunjungi link [ini](https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=ims_text-ad-none-none-DEV_c-CRE_496185668862-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP%20~%20General_Travel%20-%20cloud%20-%20google%20cloud%20console-KWID_43700060584991307-kwd-55675752867&userloc_1007702-network_g&utm_term=KW_google%20cloud%20console&gclid=CjwKCAjw7J6EBhBDEiwA5UUM2u_VdmvQgHeYc5bmztzguByVgD8e-mLyDpBhQ_LMYcV2aebfmnB41RoC9fgQAvD_BwE&gclsrc=aw.ds). sobat nanti silahkan buat API nya kemudian nnati di Replace ke sana
+Disana tertulis "REPLACE YOUR API KEY HERE!!" yang harus sobat ganti. caranya mendapatakannya adalah dengan mengunjungi link [ini](https://console.cloud.google.com/apis/api). sobat nanti silahkan buat API nya kemudian nnati di Replace ke sana
